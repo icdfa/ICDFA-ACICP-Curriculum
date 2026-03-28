@@ -668,16 +668,3 @@ There are:
 *   No compromises
 
 Only those who demonstrate **competence, resilience, and discipline** will successfully complete the programme.
-
----
-
-## NEXT STEP (OPTIONAL)
-
-If you want, I can now:
-
-*   Design **official PDF brochure (with ICDFA branding)**
-*   Create **website landing page (ready to deploy)**
-*   Build **student handbook + policy document**
-*   Prepare **admission campaign content**
-
-Just tell me 👍
