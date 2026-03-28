@@ -25,6 +25,7 @@ This repository contains the full curriculum for the Advanced Critical Infrastru
 - [Certification](#certification)
 - [Programme Fees](#programme-fees)
 - [Career Pathways](#career-pathways)
+- [Institutional Partners](#institutional-partners)
 - [Why This Programme](#why-this-programme)
 - [Final Note](#final-note)
 
@@ -646,6 +647,64 @@ Graduates can work as:
 
 ---
 
+## Institutional Partners
+
+The ACICP is proudly supported by leading technology and cybersecurity organizations worldwide:
+
+### Technology Partners
+
+#### Microsoft Azure Academy
+- **Cloud Infrastructure Training**: Azure cloud security, infrastructure as code, and cloud-native security
+- **Benefits**: Free Azure credits for trainees, official Microsoft certifications, cloud security labs
+- **Integration**: ACICP 601-602 (Cloud Security modules)
+
+#### Amazon Web Services (AWS) Academy
+- **Cloud Security & Infrastructure**: AWS security services, infrastructure automation, and threat detection
+- **Benefits**: AWS Academy membership, free tier access, AWS certification exam vouchers
+- **Integration**: ACICP 601-602 (Cloud Security modules)
+
+#### Cisco Networking Academy
+- **Network Security & Infrastructure**: Cisco networking fundamentals, advanced routing, and security appliances
+- **Benefits**: Official Cisco certifications, hands-on networking labs, instructor resources
+- **Integration**: ACICP 201-202 (Network Security modules)
+
+#### NDG (Network Development Group) - NETLAB+
+- **Hands-On Lab Infrastructure**: Industrial control systems, SCADA security, and virtual networking environments
+- **Benefits**: Unlimited NETLAB+ access, ICS/SCADA simulation labs, remote lab environments
+- **Integration**: ACICP 301-303 (ICS/SCADA Security modules), ACICP 603-604 (Virtual Infrastructure)
+
+### Charitable & Educational Partners
+
+#### ICDFA Charity Foundation
+- **Scholarship Programme**: 100% tuition coverage for eligible candidates
+- **Community Development**: Cybersecurity awareness initiatives and educational outreach
+- **Career Support**: Job placement assistance and industry networking
+- **Benefits**: Full scholarship, mentorship, career pathways, community service opportunities
+
+### Industry Recognition
+
+Our partnerships ensure that ACICP graduates receive:
+
+✅ **Industry-Recognized Certifications** – Credentials valued globally  
+✅ **Hands-On Lab Access** – Real-world infrastructure simulation  
+✅ **Cloud Platform Credits** – Practical experience with leading cloud providers  
+✅ **Career Advancement** – Direct pathways to industry positions  
+✅ **Continuous Learning** – Access to partner training resources post-graduation  
+
+### Partner Integration in Curriculum
+
+| Phase | Partner | Focus Area |
+|-------|---------|------------|
+| Phase 1-2 | Cisco Academy | Networking fundamentals |
+| Phase 3 | NDG NETLAB+ | ICS/SCADA systems |
+| Phase 4 | NDG NETLAB+ | Offensive operations |
+| Phase 5 | Cisco Academy | Network detection |
+| Phase 6 | Microsoft Azure, AWS | Cloud security |
+| Phase 7 | NDG NETLAB+ | Virtual infrastructure |
+| Phase 8 | All Partners | Capstone simulation |
+
+---
+
 ## Why This Programme
 
 This programme is:
@@ -654,6 +713,7 @@ This programme is:
 *   **Industry-aligned with real infrastructure systems**
 *   **Simulation-driven with live cyber range**
 *   **Built on strict discipline and performance standards**
+*   **Backed by leading technology and educational partners**
 
 ---
 
