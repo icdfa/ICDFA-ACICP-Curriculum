@@ -15,7 +15,7 @@ This repository contains the full curriculum for the Advanced Critical Infrastru
   - [Phase 1: Core Systems & Security](#phase-1-core-systems--security)
   - [Phase 2: Network & Security Operations](#phase-2-network--security-operations)
   - [Phase 3: Critical Infrastructure (ICS)](#phase-3-critical-infrastructure-ics)
-  - [Phase 4: Offensive Cyber Operations](#phase-4-offensive-cyber-operations)
+  - [Phase 4: Offensive Cyber Operations & Firewall Engineering](#phase-4-offensive-cyber-operations--firewall-engineering)
   - [Phase 5: Defensive Security](#phase-5-defensive-security)
   - [Phase 6: Cloud Security](#phase-6-cloud-security)
   - [Phase 7: Virtual Infrastructure](#phase-7-virtual-infrastructure)
@@ -76,7 +76,7 @@ Applicants must have:
 
 ## Programme Structure
 
-The programme is divided into **8 Phases (18 Courses)**, each delivered over **2 weeks**, with progressive difficulty and real-world simulation.
+The programme is divided into **8 Phases**, each delivered over **2 weeks**, with progressive difficulty and real-world simulation. Every lab listed below follows the exact sequential order from the original course provider.
 
 ---
 
@@ -303,95 +303,136 @@ The programme is divided into **8 Phases (18 Courses)**, each delivered over **2
 
 ---
 
-### Phase 4: Offensive Cyber Operations
+### Phase 4: Offensive Cyber Operations & Firewall Engineering
 
-#### ACICP 401 – Ethical Hacking (Core)
+#### ACICP 401 – Ethical Hacking (Core) – Series 1
 
-*   Reconnaissance
-*   Vulnerability scanning
-*   Exploitation techniques
+*   DNS footprinting & reconnaissance
+*   Vulnerability scanning & network analysis
+*   Exploitation frameworks & web pentesting
+*   Client-side attacks, ARP spoofing & MiTM
+*   Buffer overflows, SQL injection & backdoors
+*   Social engineering & SSL certificates
 
-**Labs:**
+**Labs (NDG Ethical Hacking v2 – Series 1):**
 
 | Lab Number | Lab Title                                         |
 |:-----------|:--------------------------------------------------|
 | Lab 01     | DNS Footprinting                                  |
+| Lab 02     | Packet Crafting with Scapy                        |
 | Lab 03     | Reconnaissance with Nmap, Zenmap, and Masscan     |
+| Lab 04     | Reconnaissance with Hping                         |
 | Lab 05     | Vulnerability Scanning with OpenVAS               |
+| Lab 06     | Network Analysis                                  |
+| Lab 07     | Evading IDS                                       |
+| Lab 08     | Password Cracking with JTR and Hashcat            |
 | Lab 09     | Metasploit Framework Fundamentals and Armitage    |
+| Lab 10     | Web Pentesting                                    |
+| Lab 11     | Client Side Exploitations                         |
+| Lab 12     | ARP Spoofing and MiTM Attacks                     |
+| Lab 13     | Understanding Buffer Overflows                    |
+| Lab 14     | Understanding SQL Commands and Injections         |
+| Lab 15     | Backdooring with Netcat                           |
+| Lab 16     | VNC as a Backdoor                                 |
+| Lab 17     | Creating and Installing SSL Certificates          |
+| Lab 18     | Social Engineering Attacks with SET               |
 
 ---
 
-#### ACICP 402 – Advanced Exploitation
+#### ACICP 402 – Ethical Hacking (Advanced) – Series 2
 
-*   Web attacks
-*   Buffer overflow
-*   SQL injection
-*   Backdoors
+*   Scanning methodology & enumeration
+*   System hacking & Windows SAM
+*   Web-based hacking & mobile hacking
+*   Cryptography & covering tracks
 
-**Labs:**
+**Labs (NDG Ethical Hacking v2 – Series 2):**
 
-| Lab Number | Lab Title                                  |
-|:-----------|:-------------------------------------------|
-| Lab 10     | Web Pentesting                             |
-| Lab 13     | Understanding Buffer Overflows             |
-| Lab 14     | Understanding SQL Commands and Injections  |
-| Lab 15     | Backdooring with Netcat                    |
+| Lab Number | Lab Title                                         |
+|:-----------|:--------------------------------------------------|
+| Lab 19     | Scanning Methodology                              |
+| Lab 20     | Enumeration                                       |
+| Lab 21     | System Hacking                                    |
+| Lab 22     | Windows Security Account Manager                  |
+| Lab 23     | Covering Your Tracks                              |
+| Lab 24     | Web-Based Hacking                                 |
+| Lab 25     | Mobile Hacking                                    |
+| Lab 26     | Cryptography                                      |
 
 ---
 
-#### ACICP 403 – System Hacking & Post-Exploitation
+#### ACICP 403 – PAN11 Firewall Essentials
 
-*   Enumeration
-*   Privilege escalation
-*   Covering tracks
+*   Firewall configuration & management
+*   Security policy & NAT rules
+*   App-ID, URL filtering & WildFire
+*   User-ID, decryption & logging
 
-**Labs:**
+**Labs (Palo Alto Networks Firewall Essentials):**
 
-| Lab Number | Lab Title           |
-|:-----------|:--------------------|
-| Lab 20     | Enumeration         |
-| Lab 21     | System Hacking      |
-| Lab 23     | Covering Your Tracks|
+| Lab Number | Lab Title                                                          |
+|:-----------|:-------------------------------------------------------------------|
+| Lab 01     | Configuring Initial Firewall Settings                              |
+| Lab 02     | Managing Firewall Configurations                                   |
+| Lab 03     | Managing Firewall Administrator Accounts                           |
+| Lab 04     | Connecting the Firewall to Production Networks with Security Zones |
+| Lab 05     | Creating and Managing Security Policy Rules                        |
+| Lab 06     | Creating and Managing NAT Policy Rules                             |
+| Lab 07     | Controlling Application Usage with App-ID                          |
+| Lab 08     | Blocking Known Threats Using Security Profiles                     |
+| Lab 09     | Blocking Inappropriate Web Traffic with Advanced URL Filtering     |
+| Lab 10     | Blocking Unknown Threats with WildFire                             |
+| Lab 11     | Controlling Access to Network Resources with User-ID               |
+| Lab 12     | Using Decryption to Block Threats in Encrypted Traffic             |
+| Lab 13     | Locating Valuable Information Using Logs and Reports               |
+| Lab 14     | Capstone                                                           |
 
 ---
 
 ### Phase 5: Defensive Security
 
-#### ACICP 501 – Threat Hunting & Analytics
+#### ACICP 501 – Threat Hunting & Analytics (NDG CySA+)
 
-*   Vulnerability detection
-*   Packet analysis
-*   System hardening
+*   Network enumeration & web application scanning
+*   Windows & Linux command line tools
+*   Vulnerability scanning & packet analysis
+*   Host hardening, ACLs & host-based firewalls
+*   Log data analysis & memory forensics
+*   Digital forensics & data extraction
+*   Password cracking & packet crafting
+*   Log analysis with Bash scripting
+*   Firewall configuration & incident response
+*   Encryption, Snort IDS & OSSIM
 
-**Labs:**
+**Labs (NDG CySA+ – Full Sequential Order):**
 
-| Lab Number | Lab Title             |
-|:-----------|:----------------------|
-| Lab 05     | Vulnerability Scanning|
-| Lab 06     | Packet Analysis       |
-| Lab 07     | Host Hardening        |
+| Lab Number | Lab Title                                         |
+|:-----------|:--------------------------------------------------|
+| Lab 01     | Network Enumeration                               |
+| Lab 02     | Web Application Scanning                          |
+| Lab 03     | Windows CLI Tools                                 |
+| Lab 04     | Linux Command Line Tools                          |
+| Lab 05     | Vulnerability Scanning                            |
+| Lab 06     | Packet Analysis                                   |
+| Lab 07     | Host Hardening                                    |
+| Lab 08     | Understanding ACL's and Host-Based Firewalls      |
+| Lab 09     | Working with Log Data                             |
+| Lab 10     | Memory Forensic Analysis                          |
+| Lab 11     | Digital Forensic Analysis                         |
+| Lab 12     | Extracting Data from a Compromised Machine        |
+| Lab 13     | Password Cracking                                 |
+| Lab 14     | Packet Crafting                                   |
+| Lab 15     | Log Analysis with Bash Scripting                  |
+| Lab 16     | Configuring a Firewall                            |
+| Lab 17     | Incident Response Procedures                      |
+| Lab 18     | Securing Data Using Encryption Software           |
+| Lab 19     | Creating Rules and Testing Snort IDS              |
+| Lab 20     | Network Intrusion Detection with OSSIM            |
+| Lab 21     | Host Intrusion Detection with OSSIM               |
 
 ---
 
-#### ACICP 502 – Incident Response & Detection Engineering
-
-*   Log analysis
-*   Memory forensics
-*   IDS/IPS configuration
-
-**Labs:**
-
-| Lab Number | Lab Title                             |
-|:-----------|:--------------------------------------|
-| Lab 09     | Working with Log Data                 |
-| Lab 10     | Memory Forensic Analysis              |
-| Lab 16     | Configuring a Firewall                |
-| Lab 17     | Incident Response Procedures          |
-
----
-
-#### ACICP 503 – Advanced Network Detection (Zeek IDS)
+#### ACICP 502 – Advanced Network Detection (Zeek IDS)
 
 *   Traffic analysis
 *   Behavioral detection
@@ -433,6 +474,7 @@ The programme is divided into **8 Phases (18 Courses)**, each delivered over **2
 | Lab 03     | Container Fundamentals                     |
 | Lab 04     | Container Network Security                 |
 | Lab 05     | Introduction to Docker Pt. 1               |
+| Lab 06     | Introduction to Docker Pt. 2               |
 | Lab 07     | Denying International Attackers            |
 | Lab 08     | Configuring HIP for Global Protect         |
 | Lab 09     | Container Vulnerability Scanning           |
