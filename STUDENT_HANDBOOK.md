@@ -424,5 +424,4 @@ The ACICP is a demanding, intensive programme designed for elite cybersecurity p
 **Next Review:** September 2026
 
 For questions or clarifications, contact the ICDFA Student Services Office:  
-Email: students@icdfa.org  
-Phone: +1 (XXX) XXX-XXXX
+Email: directorate.training@icdfa.edu.ng 
