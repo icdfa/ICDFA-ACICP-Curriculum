@@ -386,8 +386,7 @@ A: The Bridge Course is designed to ensure everyone has the same foundational kn
 For questions about the Bridge Course, contact:
 
 **ICDFA Student Services**  
-Email: bridge@icdfa.org  
-Phone: +1 (XXX) XXX-XXXX  
+Email: directorate.training@icdfa.edu.ng
 Office Hours: Monday–Friday, 9:00 AM–5:00 PM
 
 ---
