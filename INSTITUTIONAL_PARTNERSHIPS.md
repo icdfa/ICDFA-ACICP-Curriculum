@@ -317,8 +317,7 @@ All ACICP partners are committed to:
 For questions about partner resources or partnerships, contact:
 
 **ICDFA Partnership & Outreach Office**  
-Email: partnerships@icdfa.org  
-Phone: +1 (XXX) XXX-XXXX  
+Email: partnerships@icdfa.edu.ng 
 Office Hours: Monday–Friday, 9:00 AM–5:00 PM
 
 ---
