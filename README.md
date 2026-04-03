@@ -76,7 +76,7 @@ Applicants must have:
 
 ## Programme Structure
 
-The programme is divided into **8 Phases**, each delivered over **2 weeks**, with progressive difficulty and real-world simulation. Every lab listed below follows the exact sequential order from the original course provider.
+The programme is divided into **8 Phases**, each delivered over **2 weeks**, with progressive difficulty and real-world simulation. 
 
 ---
 
@@ -314,7 +314,7 @@ The programme is divided into **8 Phases**, each delivered over **2 weeks**, wit
 *   Buffer overflows, SQL injection & backdoors
 *   Social engineering & SSL certificates
 
-**Labs (NDG Ethical Hacking v2 – Series 1):**
+**Labs:**
 
 | Lab Number | Lab Title                                         |
 |:-----------|:--------------------------------------------------|
@@ -346,7 +346,7 @@ The programme is divided into **8 Phases**, each delivered over **2 weeks**, wit
 *   Web-based hacking & mobile hacking
 *   Cryptography & covering tracks
 
-**Labs (NDG Ethical Hacking v2 – Series 2):**
+**Labs:**
 
 | Lab Number | Lab Title                                         |
 |:-----------|:--------------------------------------------------|
@@ -368,7 +368,7 @@ The programme is divided into **8 Phases**, each delivered over **2 weeks**, wit
 *   App-ID, URL filtering & WildFire
 *   User-ID, decryption & logging
 
-**Labs (Palo Alto Networks Firewall Essentials):**
+**Labs:**
 
 | Lab Number | Lab Title                                                          |
 |:-----------|:-------------------------------------------------------------------|
@@ -404,7 +404,7 @@ The programme is divided into **8 Phases**, each delivered over **2 weeks**, wit
 *   Firewall configuration & incident response
 *   Encryption, Snort IDS & OSSIM
 
-**Labs (NDG CySA+ – Full Sequential Order):**
+**Labs:**
 
 | Lab Number | Lab Title                                         |
 |:-----------|:--------------------------------------------------|
@@ -727,11 +727,11 @@ The ACICP is proudly supported by leading technology and cybersecurity organizat
 
 Our partnerships ensure that ACICP graduates receive:
 
-✅ **Industry-Recognized Certifications** – Credentials valued globally  
-✅ **Hands-On Lab Access** – Real-world infrastructure simulation  
-✅ **Cloud Platform Credits** – Practical experience with leading cloud providers  
-✅ **Career Advancement** – Direct pathways to industry positions  
-✅ **Continuous Learning** – Access to partner training resources post-graduation  
+ **Industry-Recognized Certifications** – Credentials valued globally  
+ **Hands-On Lab Access** – Real-world infrastructure simulation  
+ **Cloud Platform Credits** – Practical experience with leading cloud providers  
+ **Career Advancement** – Direct pathways to industry positions  
+ **Continuous Learning** – Access to partner training resources post-graduation  
 
 ### Partner Integration in Curriculum
 
