@@ -844,7 +844,7 @@ After this period, you can purchase individual subscriptions if desired.
 4. Restart your computer and router
 5. Contact technical support if issues persist
 
-**Technical Support:** tech-support@icdfa.org or call +1 (XXX) XXX-XXXX
+**Technical Support:** studentsupport@icdfa.edu.ng 
 
 ---
 
@@ -976,18 +976,15 @@ However, prior certifications (Security+, CEH, etc.) may strengthen your applica
 If your question isn't answered above, contact:
 
 **ICDFA Student Services**  
-Email: students@icdfa.org  
-Phone: +1 (XXX) XXX-XXXX  
+Email: studentsupport@icdfa.edu.ng  
 Office Hours: Monday–Friday, 9:00 AM–5:00 PM
 
 **ICDFA Admissions**  
-Email: admissions@icdfa.org  
-Phone: +1 (XXX) XXX-XXXX  
+Email: admissions@icdfa.edu.ng  
 Office Hours: Monday–Friday, 9:00 AM–5:00 PM
 
 **Technical Support**  
-Email: tech-support@icdfa.org  
-Phone: +1 (XXX) XXX-XXXX  
+Email: studentsupport@icdfa.edu.ng
 Available: 24/7 for critical issues
 
 ---
