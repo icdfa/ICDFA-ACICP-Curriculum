@@ -35,25 +35,25 @@ This handbook outlines the expectations, policies, and procedures that govern yo
 
 ### Programme Structure
 
-The ACICP is a **36-week (9-month) intensive training programme** divided into **8 Phases** covering **18 specialized courses** and **100+ hands-on labs**.
+The ACICP is a **24-week (6-month) intensive training programme** divided into **7 Phases** covering **15 published course sections** and **162 hands-on labs**.
 
 | Phase | Focus Area | Duration | Courses |
 |:------|:-----------|:---------|:--------|
-| 1 | Core Systems & Security | 4 weeks | ACICP 101–104 |
-| 2 | Network & Security Operations | 2 weeks | ACICP 201–202 |
-| 3 | Critical Infrastructure (ICS) | 3 weeks | ACICP 301–303 |
-| 4 | Offensive Cyber Operations | 3 weeks | ACICP 401–403 |
-| 5 | Defensive Security | 3 weeks | ACICP 501–503 |
-| 6 | Cloud Security | 2 weeks | ACICP 601–602 |
-| 7 | Virtual Infrastructure | 4 weeks | ACICP 603–604 |
-| 8 | Digital Forensics & Capstone | 4 weeks | ACICP 701–702 |
+| 1 | Core Systems & Security | 4 weeks | ACICP 101, 103-104 |
+| 2 | Network & Security Operations | 3 weeks | ACICP 201-202 |
+| 3 | Critical Infrastructure (ICS) | 4 weeks | ACICP 301-303 |
+| 4 | Offensive Cyber Operations | 4 weeks | ACICP 401-403 |
+| 5 | Cloud Security | 2 weeks | ACICP 601 |
+| 6 | Virtual Infrastructure | 3 weeks | ACICP 604 |
+| 7 | Digital Forensics & Capstone | 4 weeks | ACICP 701-702 |
+
 
 ### Training Delivery
 
 The programme is delivered through:
 
 - **Instructor-led classroom sessions** (8 hours per day, 5 days per week)
-- **Hands-on lab exercises** (100+ practical labs with real infrastructure)
+- **Hands-on lab exercises** (162 practical labs with real infrastructure)
 - **Live cyber range simulations** (24-hour CTF in final phase)
 - **Peer collaboration** (team-based exercises and group projects)
 
@@ -162,8 +162,8 @@ The ACICP includes the following assessments:
 1. **Initial Lab Assessment** (Week 1)
 2. **Continuous Lab Performance** (Weeks 2–35)
 3. **Mid-Programme Competency Exam** (Week 18)
-4. **Final Lab Assessment** (Week 35)
-5. **Capstone Project & 24-Hour CTF** (Week 36)
+4. **Final Lab Assessment** (Week 23)
+5. **Capstone Project & 24-Hour CTF** (Week 24)
 
 ### No Retake Rule
 
@@ -201,7 +201,7 @@ All ACICP trainees are required to participate in **Community Development Servic
 
 ### CDS Requirements
 
-Each trainee must complete **minimum 20 hours** of CDS during the 36-week programme, distributed as follows:
+Each trainee must complete **minimum 20 hours** of CDS during the 24-week programme, distributed as follows:
 
 - **Cybersecurity Awareness Initiatives** (10 hours minimum)
   - Conducting cybersecurity awareness workshops in schools or community centers
@@ -259,15 +259,15 @@ Each trainee must complete **minimum 20 hours** of CDS during the 36-week progra
 - **Retake:** **NO RETAKES ALLOWED**
 - **Passing Score:** ≥70%
 
-#### 4. Final Lab Assessment (Week 35)
+#### 4. Final Lab Assessment (Week 23)
 
 - **Purpose:** Comprehensive evaluation of all technical skills
-- **Format:** Practical lab exercises covering all 8 phases
+- **Format:** Practical lab exercises covering the revised 7-phase curriculum
 - **Weight:** 20% of final grade
 - **Retake:** **NO RETAKES ALLOWED**
 - **Passing Score:** ≥70%
 
-#### 5. Capstone Project & 24-Hour CTF (Week 36)
+#### 5. Capstone Project & 24-Hour CTF (Week 24)
 
 - **Purpose:** Demonstrate mastery through real-world simulation
 - **Format:** Live attack simulation + incident investigation + CTF competition

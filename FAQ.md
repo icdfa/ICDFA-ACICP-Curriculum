@@ -139,16 +139,15 @@ Cohorts are highly competitive, and we recommend applying early.
 
 ### Q9: How long is the ACICP?
 
-**A:** The ACICP is a **36-week (9-month) intensive programme** divided into **8 phases**:
+**A:** The ACICP is a **24-week (6-month) intensive programme** divided into **7 phases**:
 
 - Phase 1: Core Systems & Security (4 weeks)
-- Phase 2: Network & Security Operations (2 weeks)
-- Phase 3: Critical Infrastructure (ICS) (3 weeks)
-- Phase 4: Offensive Cyber Operations (3 weeks)
-- Phase 5: Defensive Security (3 weeks)
-- Phase 6: Cloud Security (2 weeks)
-- Phase 7: Virtual Infrastructure (4 weeks)
-- Phase 8: Digital Forensics & Capstone (4 weeks)
+- Phase 2: Network & Security Operations (3 weeks)
+- Phase 3: Critical Infrastructure (ICS) (4 weeks)
+- Phase 4: Offensive Cyber Operations (4 weeks)
+- Phase 5: Cloud Security (2 weeks)
+- Phase 6: Virtual Infrastructure (3 weeks)
+- Phase 7: Digital Forensics & Final Simulation (4 weeks)
 
 ---
 
@@ -174,7 +173,7 @@ Part-time study is **not available**. The programme is designed as an intensive,
 - **Fall 2026:** October 5, 2026
 - **Winter 2027:** January 4, 2027
 
-All cohorts run for exactly 36 weeks (9 months) with scheduled breaks for holidays.
+All cohorts run for exactly 24 weeks (6 months) in a compressed intensive delivery format.
 
 ---
 
@@ -186,29 +185,27 @@ All cohorts run for exactly 36 weeks (9 months) with scheduled breaks for holida
 
 ### Q13: What courses are included in the ACICP?
 
-**A:** The ACICP includes **18 specialized courses** across 8 phases:
+**A:** The ACICP now presents **15 published course sections** across **7 phases**:
 
-**Phase 1:** ACICP 101–104 (Cybersecurity Foundation, Linux Essentials, Linux Systems Engineering I–II)
+**Phase 1:** ACICP 101, 103-104 (Cybersecurity Foundation, Linux Systems Engineering I-II)
 
-**Phase 2:** ACICP 201–202 (Network Security Engineering, Security Operations & Threat Monitoring)
+**Phase 2:** ACICP 201-202 (Network Security Engineering, Security Operations & Threat Monitoring)
 
-**Phase 3:** ACICP 301–303 (ICS & SCADA Systems, ICS Network Security & Attacks, Industrial Exploitation & Pivoting)
+**Phase 3:** ACICP 301-303 (ICS & SCADA Systems, ICS Network Security & Attacks, Industrial Exploitation & Pivoting)
 
-**Phase 4:** ACICP 401–403 (Ethical Hacking, Advanced Exploitation, System Hacking & Post-Exploitation)
+**Phase 4:** ACICP 401-403 (Ethical Hacking Series 1, Ethical Hacking Series 2, PAN11 Firewall Essentials)
 
-**Phase 5:** ACICP 501–503 (Threat Hunting & Analytics, Incident Response & Detection Engineering, Advanced Network Detection with Zeek IDS)
+**Phase 5:** ACICP 601 (Cloud Security Fundamentals)
 
-**Phase 6:** ACICP 601–602 (Cloud Security Fundamentals, Cloud Security Automation)
+**Phase 6:** ACICP 604 (Advanced Virtual Infrastructure)
 
-**Phase 7:** ACICP 603–604 (Virtual Infrastructure with Proxmox, Advanced Virtual Infrastructure)
-
-**Phase 8:** ACICP 701–702 (Digital Forensics, Final Capstone & 24-Hour Cyber Range)
+**Phase 7:** ACICP 701-702 (Digital Forensics, Final Capstone & 24-Hour Cyber Range)
 
 ---
 
 ### Q14: How many labs are included?
 
-**A:** The ACICP includes **100+ hands-on labs** distributed across all 18 courses. Each course includes 4–21 practical lab exercises covering real-world scenarios and infrastructure.
+**A:** The revised ACICP includes **162 hands-on labs** distributed across **15 published course sections**. Each course includes focused practical lab exercises covering real-world infrastructure and cybersecurity scenarios.
 
 ---
 
@@ -304,7 +301,7 @@ Most labs are Linux-based, so Linux users may have a slight advantage. All instr
 
 | Track | Cost | Details |
 |:------|:-----|:--------|
-| **Standard Track** | $150 USD | Full tuition for the 36-week programme |
+| **Standard Track** | $150 USD | Full tuition for the 24-week programme |
 | **Scholarship Track** | $10 USD | Commitment fee only (100% tuition covered by ICDFA Foundation) |
 
 The scholarship track is available to qualified candidates from underrepresented communities and developing nations.
@@ -315,7 +312,7 @@ The scholarship track is available to qualified candidates from underrepresented
 
 **A:** Tuition includes:
 
-- 36 weeks of instructor-led training (8 hours/day, 5 days/week)
+- 24 weeks of instructor-led training (8 hours/day, 5 days/week)
 - 100+ hands-on lab exercises with cloud-based environments
 - Access to all partner platforms (Microsoft Azure, AWS, Cisco, NDG NETLAB+)
 - $200/month Microsoft Azure credits ($2,400 total value)
@@ -401,7 +398,7 @@ Withdrawals must be submitted in writing to the ICDFA Student Services Office.
 **A:** Lab environments include:
 
 - **Cloud Platforms:** Microsoft Azure, AWS, Google Cloud
-- **Virtualization:** Proxmox, VMware, Hyper-V
+- **Virtualization:** VMware, Hyper-V, VirtualBox
 - **Network Simulation:** NDG NETLAB+, Cisco Packet Tracer
 - **Security Tools:** Metasploit, Burp Suite, Wireshark, OpenVAS
 - **ICS/SCADA:** Simulated industrial control systems and SCADA environments
@@ -512,8 +509,8 @@ The credential demonstrates mastery of critical infrastructure security and is h
 
 - **Continuous Lab Performance (40%):** Weekly lab submissions and evaluations
 - **Mid-Programme Exam (20%):** Week 18 comprehensive exam
-- **Final Lab Assessment (20%):** Week 35 practical evaluation
-- **Capstone Project & CTF (20%):** Week 36 live simulation and competition
+- **Final Lab Assessment (20%):** Week 23 practical evaluation
+- **Capstone Project & CTF (20%):** Week 24 live simulation and competition
 
 **Passing score: ≥70% overall**
 
@@ -592,7 +589,7 @@ Critical violations (attacks on external systems) result in immediate expulsion.
 
 ### Q42: What is the Community Development Service (CDS)?
 
-**A:** All trainees must complete **20 hours of CDS** during the 36-week programme:
+**A:** All trainees must complete **20 hours of CDS** during the 24-week programme:
 
 - **Cybersecurity Awareness (10 hours):** Workshops, training, mentoring
 - **Institutional/Community Service (10 hours):** ICDFA support, incident response, outreach

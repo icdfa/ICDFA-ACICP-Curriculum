@@ -43,11 +43,9 @@ The ICDFA is an official **Microsoft Azure Academy Partner**, providing ACICP tr
 
 ### ACICP Integration
 
-Microsoft Azure is integrated into the following ACICP courses:
+Microsoft Azure is integrated into the following ACICP course:
 
 - **ACICP 601 – Cloud Security Fundamentals:** Azure security architecture, identity management, and data protection
-- **ACICP 602 – Cloud Security Automation:** Azure DevSecOps, infrastructure as code (IaC), and automated security controls
-- **ACICP 603 – Virtual Infrastructure:** Azure virtual machines, networking, and storage management
 
 ### Certification Pathways
 
@@ -62,7 +60,7 @@ ACICP trainees are encouraged to pursue the following Microsoft certifications:
 1. **Enrollment:** Upon admission to ACICP, you will receive Microsoft Learn credentials
 2. **Credit Activation:** Azure credits are activated on Day 1 of the programme
 3. **Support:** Microsoft technical support is available 24/7 for lab issues
-4. **Training:** Instructors will guide you through Azure labs during ACICP 601–602
+4. **Training:** Instructors will guide you through Azure labs during ACICP 601
 
 ### Microsoft Contact
 
@@ -91,11 +89,9 @@ The ICDFA is an official **AWS Academy Member**, providing ACICP trainees with a
 
 ### ACICP Integration
 
-AWS is integrated into the following ACICP courses:
+AWS is integrated into the following ACICP course:
 
 - **ACICP 601 – Cloud Security Fundamentals:** AWS security services, identity and access management (IAM), and encryption
-- **ACICP 602 – Cloud Security Automation:** AWS CloudFormation, Infrastructure as Code (IaC), and automated security responses
-- **ACICP 603 – Virtual Infrastructure:** AWS EC2, VPC, and storage services
 
 ### Certification Pathways
 
@@ -110,7 +106,7 @@ ACICP trainees are encouraged to pursue the following AWS certifications:
 1. **Enrollment:** Upon admission to ACICP, you will receive AWS Academy credentials
 2. **Free Tier Activation:** AWS free tier access is activated on Day 1
 3. **Lab Access:** AWS Academy labs are available through your ACICP portal
-4. **Training:** Instructors will guide you through AWS labs during ACICP 601–602
+4. **Training:** Instructors will guide you through AWS labs during ACICP 601
 
 ### AWS Contact
 
@@ -196,7 +192,6 @@ NETLAB+ is the primary platform for the following ACICP courses:
 - **ACICP 301 – ICS & SCADA Systems:** PLC programming and SCADA system labs
 - **ACICP 302 – ICS Network Security & Attacks:** ICS network security and attack simulation labs
 - **ACICP 303 – Industrial Exploitation & Pivoting:** Advanced ICS exploitation and network pivoting labs
-- **ACICP 603 – Virtual Infrastructure (Proxmox):** Virtual machine and container deployment labs
 
 ### Lab Scenarios Available
 
@@ -230,8 +225,8 @@ Website: https://www.netdevgroup.com/
 
 | Partner | Platform | Key Benefits | Integration |
 |:--------|:---------|:-------------|:------------|
-| **Microsoft** | Azure Academy | $200/month credits, Microsoft Learn, AZ-500 cert | ACICP 601–602 |
-| **AWS** | AWS Academy | Free tier, 40+ labs, AWS Skill Builder, AWS Security cert | ACICP 601–602 |
+| **Microsoft** | Azure Academy | $200/month credits, Microsoft Learn, AZ-500 cert | ACICP 601 |
+| **AWS** | AWS Academy | Free tier, 40+ labs, AWS Skill Builder, AWS Security cert | ACICP 601 |
 | **Cisco** | Networking Academy | CCNA/CCNP curriculum, Packet Tracer, real equipment | ACICP 104, 201–202, 301–303 |
 | **NDG** | NETLAB+ | 24/7 access, 200+ labs, ICS/SCADA focus, team labs | ACICP 201–202, 301–303, 603 |
 

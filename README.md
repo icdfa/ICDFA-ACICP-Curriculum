@@ -16,10 +16,9 @@ This repository contains the full curriculum for the Advanced Critical Infrastru
   - [Phase 2: Network & Security Operations](#phase-2-network--security-operations)
   - [Phase 3: Critical Infrastructure (ICS)](#phase-3-critical-infrastructure-ics)
   - [Phase 4: Offensive Cyber Operations & Firewall Engineering](#phase-4-offensive-cyber-operations--firewall-engineering)
-  - [Phase 5: Defensive Security](#phase-5-defensive-security)
-  - [Phase 6: Cloud Security](#phase-6-cloud-security)
-  - [Phase 7: Virtual Infrastructure](#phase-7-virtual-infrastructure)
-  - [Phase 8: Digital Forensics & Final Simulation](#phase-8-digital-forensics--final-simulation)
+  - [Phase 5: Cloud Security](#phase-5-cloud-security)
+  - [Phase 6: Virtual Infrastructure](#phase-6-virtual-infrastructure)
+  - [Phase 7: Digital Forensics & Final Simulation](#phase-7-digital-forensics--final-simulation)
 - [Assessment Structure](#assessment-structure)
 - [Mandatory ICDFA Requirements](#mandatory-icdfa-requirements)
 - [Certification](#certification)
@@ -56,7 +55,7 @@ This programme focuses on **real-world operational environments**, integrating:
 | Detail          | Description                                    |
 |:----------------|:-----------------------------------------------|
 | **Programme Code** | ICDFA-ACICP                                    |
-| **Duration**    | 36 Weeks (9 Months)                            |
+| **Duration**    | 24 Weeks (6 Months)                            |
 | **Training Mode** | 100% Practical (Lab-Based)                     |
 | **Delivery Format** | Instructor-led + Cyber Range Simulation        |
 | **Level**       | Advanced (Non-Beginner)                        |
@@ -76,7 +75,7 @@ Applicants must have:
 
 ## Programme Structure
 
-The programme is divided into **8 Phases**, each delivered over **2 weeks**, with progressive difficulty and real-world simulation. 
+The programme is divided into **7 Phases** delivered across **24 weeks (6 months)**, with a compressed advanced sequence focused on critical infrastructure security, offensive operations, cloud defence, virtual infrastructure, and digital forensics. 
 
 ---
 
@@ -102,37 +101,6 @@ The programme is divided into **8 Phases**, each delivered over **2 weeks**, wit
 
 ---
 
-#### ACICP 102 – Linux Essentials
-
-*   Command-line mastery
-*   Filesystems & permissions
-*   Bash scripting
-*   System security
-
-**Labs:**
-
-| Lab Number    | Lab Title                               |
-|:--------------|:----------------------------------------|
-| Lab 05        | Command Line Skills                     |
-| Lab 06        | Getting Help                            |
-| Lab 07        | Navigating the Filesystem               |
-| Lab 08        | Managing Files and Directories          |
-| Lab 09        | Archiving and Compression               |
-| Lab 10        | Working with Text                       |
-| Lab 11        | Basic Scripting                         |
-| Lab 12        | Understanding Computer Hardware         |
-| Lab 13        | Where Data is Stored                    |
-| Lab 14        | Network Configuration                   |
-| Lab 15        | System and User Security                |
-| Lab 16        | Creating Users and Groups               |
-| Lab 17        | Ownership and Permissions               |
-| Lab 18        | Special Directories and Files           |
-| Challenge Lab A | User Management                       |
-| Challenge Lab B | Bash Scripting                        |
-| Challenge Lab C | Log File Archiving                    |
-| Challenge Lab D | Pipes, Redirection and REGEX          |
-
----
 
 #### ACICP 103 – Linux Systems Engineering I
 
@@ -389,75 +357,8 @@ The programme is divided into **8 Phases**, each delivered over **2 weeks**, wit
 
 ---
 
-### Phase 5: Defensive Security
 
-#### ACICP 501 – Threat Hunting & Analytics (NDG CySA+)
-
-*   Network enumeration & web application scanning
-*   Windows & Linux command line tools
-*   Vulnerability scanning & packet analysis
-*   Host hardening, ACLs & host-based firewalls
-*   Log data analysis & memory forensics
-*   Digital forensics & data extraction
-*   Password cracking & packet crafting
-*   Log analysis with Bash scripting
-*   Firewall configuration & incident response
-*   Encryption, Snort IDS & OSSIM
-
-**Labs:**
-
-| Lab Number | Lab Title                                         |
-|:-----------|:--------------------------------------------------|
-| Lab 01     | Network Enumeration                               |
-| Lab 02     | Web Application Scanning                          |
-| Lab 03     | Windows CLI Tools                                 |
-| Lab 04     | Linux Command Line Tools                          |
-| Lab 05     | Vulnerability Scanning                            |
-| Lab 06     | Packet Analysis                                   |
-| Lab 07     | Host Hardening                                    |
-| Lab 08     | Understanding ACL's and Host-Based Firewalls      |
-| Lab 09     | Working with Log Data                             |
-| Lab 10     | Memory Forensic Analysis                          |
-| Lab 11     | Digital Forensic Analysis                         |
-| Lab 12     | Extracting Data from a Compromised Machine        |
-| Lab 13     | Password Cracking                                 |
-| Lab 14     | Packet Crafting                                   |
-| Lab 15     | Log Analysis with Bash Scripting                  |
-| Lab 16     | Configuring a Firewall                            |
-| Lab 17     | Incident Response Procedures                      |
-| Lab 18     | Securing Data Using Encryption Software           |
-| Lab 19     | Creating Rules and Testing Snort IDS              |
-| Lab 20     | Network Intrusion Detection with OSSIM            |
-| Lab 21     | Host Intrusion Detection with OSSIM               |
-
----
-
-#### ACICP 502 – Advanced Network Detection (Zeek IDS)
-
-*   Traffic analysis
-*   Behavioral detection
-*   Machine learning applications
-
-**Labs:**
-
-| Lab Number | Lab Title                                                              |
-|:-----------|:-----------------------------------------------------------------------|
-| Lab 01     | Introduction to the Capabilities of Zeek                               |
-| Lab 02     | An Overview of Zeek Logs                                               |
-| Lab 03     | Parsing, Reading, and Organizing Zeek Files                            |
-| Lab 04     | Generating, Capturing, and Analyzing Network Scanner Traffic           |
-| Lab 05     | Generating, Capturing, and Analyzing DoS and DDoS-Centric Network Traffic |
-| Lab 06     | Introduction to Zeek Scripting                                         |
-| Lab 07     | Introduction to Zeek Signatures                                        |
-| Lab 08     | Advanced Zeek Scripting for Anomaly and Malicious Event Detection      |
-| Lab 09     | Profiling and Performance Metrics of Zeek                              |
-| Lab 10     | Application of the Zeek IDS for Real-Time Network Protection           |
-| Lab 11     | Preprocessing of Zeek Output Logs for Machine Learning                 |
-| Lab 12     | Developing Machine Learning Classifiers for Anomaly Inference and Classification |
-
----
-
-### Phase 6: Cloud Security
+### Phase 5: Cloud Security
 
 #### ACICP 601 – Cloud Security Fundamentals
 
@@ -481,56 +382,9 @@ The programme is divided into **8 Phases**, each delivered over **2 weeks**, wit
 
 ---
 
-#### ACICP 602 – Cloud Security Automation
 
-*   Kubernetes
-*   DevSecOps
-*   CNAPP
+### Phase 6: Virtual Infrastructure
 
-**Labs:**
-
-| Lab Number | Lab Title                                                              |
-|:-----------|:-----------------------------------------------------------------------|
-| Lab 01     | Introduction to Kubernetes Pt. 1                                       |
-| Lab 02     | Introduction to Kubernetes Pt. 2                                       |
-| Lab 03     | Introduction to Kubernetes: Microservices and DevSecOps                |
-| Lab 04     | Overview of Cloud-Native Application Protection Platforms (CNAPP) Pt. 1 |
-| Lab 05     | Overview of Cloud-Native Application Protection Platforms (CNAPP) Pt. 2 |
-| Lab 06     | Cloud-Native Application Protection Platforms (CNAPP) Runtime Defense Pt. 1 |
-| Lab 07     | Cloud-Native Application Protection Platforms (CNAPP) Runtime Defense Pt. 2 |
-
----
-
-### Phase 7: Virtual Infrastructure
-
-#### ACICP 603 – Virtual Infrastructure (Proxmox)
-
-*   Virtual machines
-*   Storage systems
-*   Networking
-
-**Labs:**
-
-| Lab Number | Lab Title                                  |
-|:-----------|:-------------------------------------------|
-| Lab 01     | Accessing the Lab Environment              |
-| Lab 02     | Installing Proxmox VE                      |
-| Lab 03     | Basic Setup and Configuration              |
-| Lab 04     | Users, Groups, and Permissions             |
-| Lab 05A    | Deploying Virtual Machines                 |
-| Lab 05B    | Deploying Containers                       |
-| Lab 06     | Modifying Virtual Machines and Containers  |
-| Lab 07     | Cloning and Container Templates            |
-| Lab 08     | Local Storage                              |
-| Lab 09     | Networked Storage                          |
-| Lab 10     | Backup                                     |
-| Lab 11     | Proxmox Backup Server                      |
-| Lab 12     | Networks                                   |
-| Lab 13     | Command Line Interface (CLI)               |
-| Lab 14     | Clustering and High Availability           |
-| Lab 15     | Challenge Lab                              |
-
----
 
 #### ACICP 604 – Advanced Virtual Infrastructure
 
@@ -563,7 +417,7 @@ The programme is divided into **8 Phases**, each delivered over **2 weeks**, wit
 
 ---
 
-### Phase 8: Digital Forensics & Final Simulation
+### Phase 7: Digital Forensics & Final Simulation
 
 #### ACICP 701 – Digital Forensics
 
@@ -698,12 +552,12 @@ The ACICP is proudly supported by leading technology and cybersecurity organizat
 #### Microsoft Azure Academy
 - **Cloud Infrastructure Training**: Azure cloud security, infrastructure as code, and cloud-native security
 - **Benefits**: Free Azure credits for trainees, official Microsoft certifications, cloud security labs
-- **Integration**: ACICP 601-602 (Cloud Security modules)
+- **Integration**: ACICP 601 (Cloud Security module)
 
 #### Amazon Web Services (AWS) Academy
 - **Cloud Security & Infrastructure**: AWS security services, infrastructure automation, and threat detection
 - **Benefits**: AWS Academy membership, free tier access, AWS certification exam vouchers
-- **Integration**: ACICP 601-602 (Cloud Security modules)
+- **Integration**: ACICP 601 (Cloud Security module)
 
 #### Cisco Networking Academy
 - **Network Security & Infrastructure**: Cisco networking fundamentals, advanced routing, and security appliances
@@ -713,7 +567,7 @@ The ACICP is proudly supported by leading technology and cybersecurity organizat
 #### NDG (Network Development Group) - NETLAB+
 - **Hands-On Lab Infrastructure**: Industrial control systems, SCADA security, and virtual networking environments
 - **Benefits**: Unlimited NETLAB+ access, ICS/SCADA simulation labs, remote lab environments
-- **Integration**: ACICP 301-303 (ICS/SCADA Security modules), ACICP 603-604 (Virtual Infrastructure)
+- **Integration**: ACICP 301-303 (ICS/SCADA Security modules), ACICP 604 (Advanced Virtual Infrastructure)
 
 ### Charitable & Educational Partners
 
@@ -737,13 +591,12 @@ Our partnerships ensure that ACICP graduates receive:
 
 | Phase | Partner | Focus Area |
 |-------|---------|------------|
-| Phase 1-2 | Cisco Academy | Networking fundamentals |
+| Phase 1-2 | Cisco Academy | Networking fundamentals and security operations |
 | Phase 3 | NDG NETLAB+ | ICS/SCADA systems |
-| Phase 4 | NDG NETLAB+ | Offensive operations |
-| Phase 5 | Cisco Academy | Network detection |
-| Phase 6 | Microsoft Azure, AWS | Cloud security |
-| Phase 7 | NDG NETLAB+ | Virtual infrastructure |
-| Phase 8 | All Partners | Capstone simulation |
+| Phase 4 | NDG NETLAB+ | Offensive operations and firewall engineering |
+| Phase 5 | Microsoft Azure, AWS | Cloud security |
+| Phase 6 | NDG NETLAB+ | Advanced virtual infrastructure |
+| Phase 7 | All Partners | Capstone simulation and forensics |
 
 ---
 
