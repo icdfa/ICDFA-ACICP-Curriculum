@@ -68,7 +68,7 @@ Applicants must have:
 
 *   Prior knowledge of cybersecurity fundamentals
 *   Basic networking (TCP/IP) understanding
-*   Familiarity with Linux systems
+*   Prior systems administration or command-line experience
 *   Strong commitment to intensive hands-on training
 
 ---
@@ -101,73 +101,6 @@ The programme is divided into **7 Phases** delivered across **24 weeks (6 months
 
 ---
 
-
-#### ACICP 103 – Linux Systems Engineering I
-
-*   Shell operations
-*   Process management
-*   Boot systems
-*   Filesystem management
-
-**Labs:**
-
-| Lab Number | Lab Title                             |
-|:-----------|:--------------------------------------|
-| Lab 2      | Using the Shell                       |
-| Lab 3      | Configuring the Shell                 |
-| Lab 4      | File Globbing                         |
-| Lab 5      | File Manipulation                     |
-| Lab 6      | Finding Files                         |
-| Lab 7      | Text Utilities                        |
-| Lab 8      | Regular Expressions                   |
-| Lab 9      | The vi Editor                         |
-| Lab 10     | Standard Text Streams and Redirection |
-| Lab 11     | Managing Processes                    |
-| Lab 12     | Archive Commands                      |
-| Lab 13     | File Permissions                      |
-| Lab 14     | Filesystem Links                      |
-| Lab 15     | Hardware Configuration                |
-| Lab 17     | The Bootloaders                       |
-| Lab 18     | Runlevels                             |
-| Lab 21     | Mounting Filesystems                  |
-| Lab 22     | Maintaining Integrity                 |
-| Lab 23     | Fixing Filesystems                    |
-| Lab 24     | Package Management                    |
-| Lab 25     | Managing Shared Libraries             |
-
----
-
-#### ACICP 104 – Linux Systems Engineering II
-
-*   Advanced administration
-*   Networking
-*   Logging & services
-*   Encryption
-
-**Labs:**
-
-| Lab Number | Lab Title                             |
-|:-----------|:--------------------------------------|
-| Lab 1      | Advanced Shell Features               |
-| Lab 2      | Shell Scripts                         |
-| Lab 3      | X Window                              |
-| Lab 4      | Graphical Desktops                    |
-| Lab 5      | Accessibility                         |
-| Lab 6      | User and Group Accounts               |
-| Lab 7      | Scheduling Jobs                       |
-| Lab 8      | Localization                          |
-| Lab 9      | System Time                           |
-| Lab 10     | System Logging                        |
-| Lab 11     | Email Configuration                   |
-| Lab 12     | Printer Management                    |
-| Lab 13     | Networking Fundamentals               |
-| Lab 14     | Network Configuration                 |
-| Lab 15     | Network Troubleshooting               |
-| Lab 16     | Account Security                      |
-| Lab 17     | Host Security                         |
-| Lab 18     | Encryption                            |
-
----
 
 ### Phase 2: Network & Security Operations
 
@@ -207,7 +140,7 @@ The programme is divided into **7 Phases** delivered across **24 weeks (6 months
 | Lab 01     | Network Traffic Analysis                                   |
 | Lab 02     | Using the Application Command Center (ACC) to Find Threats |
 | Lab 03     | Analyzing Firewall Logs                                    |
-| Lab 04     | Log Forwarding to Linux                                    |
+| Lab 04     | Log Forwarding to a Secure Collector                       |
 | Lab 05     | Stopping Reconnaissance Attacks                            |
 | Lab 06     | Securing Endpoints using Vulnerability Profiles            |
 | Lab 07     | Threat Intelligence                                        |
@@ -401,7 +334,7 @@ The programme is divided into **7 Phases** delivered across **24 weeks (6 months
 | Lab 01C    | Importing Virtual Machines from VirtualBox                |
 | Lab 02     | Advanced User Management                                  |
 | Lab 03     | Management Using the API Interface                        |
-| Lab 04     | Creating Non-Linux Virtual Machines                       |
+| Lab 04     | Creating Heterogeneous Virtual Machines                   |
 | Lab 05     | Hookscripts and Snippets                                  |
 | Lab 06     | Exploring Configuration Files                             |
 | Lab 07A    | Advanced Monitoring                                       |

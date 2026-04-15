@@ -137,7 +137,6 @@ The ICDFA is an official **Cisco Networking Academy Partner**, providing ACICP t
 
 Cisco networking and security training is integrated into the following ACICP courses:
 
-- **ACICP 104 – Linux Systems Engineering II:** Network configuration and troubleshooting
 - **ACICP 201 – Network Security Engineering:** Network security architecture and firewall configuration
 - **ACICP 202 – Security Operations & Threat Monitoring:** Network traffic analysis and threat detection
 - **ACICP 301–303 – Critical Infrastructure (ICS):** Industrial network protocols and ICS security
@@ -227,8 +226,8 @@ Website: https://www.netdevgroup.com/
 |:--------|:---------|:-------------|:------------|
 | **Microsoft** | Azure Academy | $200/month credits, Microsoft Learn, AZ-500 cert | ACICP 601 |
 | **AWS** | AWS Academy | Free tier, 40+ labs, AWS Skill Builder, AWS Security cert | ACICP 601 |
-| **Cisco** | Networking Academy | CCNA/CCNP curriculum, Packet Tracer, real equipment | ACICP 104, 201–202, 301–303 |
-| **NDG** | NETLAB+ | 24/7 access, 200+ labs, ICS/SCADA focus, team labs | ACICP 201–202, 301–303, 603 |
+| **Cisco** | Networking Academy | CCNA/CCNP curriculum, Packet Tracer, real equipment | ACICP 201–202, 301–303 |
+| **NDG** | NETLAB+ | 24/7 access, 200+ labs, ICS/SCADA focus, team labs | ACICP 201–202, 301–303 |
 
 ### Total Value of Partnerships
 

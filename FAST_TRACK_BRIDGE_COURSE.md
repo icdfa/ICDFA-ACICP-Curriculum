@@ -15,7 +15,7 @@ The Bridge Course is recommended for applicants who:
 
 - Have cybersecurity knowledge but lack formal certification (CompTIA Security+)
 - Have networking experience but need TCP/IP refresher
-- Have Linux exposure but lack command-line proficiency
+- Need a refresher in command-line and systems administration basics
 - Have been away from technical work and need to refresh skills
 - Are transitioning from non-technical backgrounds into cybersecurity
 
@@ -44,11 +44,11 @@ Upon completion of the Bridge Course, trainees will be able to:
    - Analyze network traffic using packet analysis tools
    - Understand firewalls, routing, and network segmentation
 
-3. **Linux Proficiency**
-   - Navigate the Linux filesystem and file permissions
-   - Execute essential Linux commands and scripts
-   - Manage users, groups, and system services
-   - Perform basic system administration tasks
+3. **Systems Administration Fundamentals**
+   - Navigate command-line environments and file permissions
+   - Execute essential administrative commands and scripts
+   - Manage users, groups, and core system services
+   - Perform basic system administration tasks across lab platforms
 
 4. **Hands-On Lab Skills**
    - Set up virtual lab environments
@@ -115,41 +115,41 @@ Upon completion of the Bridge Course, trainees will be able to:
   - Identify suspicious network activity
   - Configure basic firewall security
 
-#### Day 4: Linux Fundamentals Part 1
+#### Day 4: Command-Line Foundations
 - **Topics:**
-  - Linux filesystem hierarchy
+  - Filesystem hierarchy and directory structure
   - File permissions and ownership
-  - Basic commands (ls, cd, pwd, mkdir, rm, cp, mv)
+  - Basic administrative commands (ls, cd, pwd, mkdir, rm, cp, mv)
   - Text editors (vi, nano)
   - Command-line navigation and shortcuts
 
 - **Labs:**
-  - Lab 09: Navigating the Linux filesystem
+  - Lab 09: Navigating the command-line filesystem
   - Lab 10: Managing files and directories
   - Lab 11: Understanding file permissions
 
 - **Expected Outcomes:**
-  - Navigate Linux filesystem confidently
+  - Navigate command-line environments confidently
   - Manage files and permissions
   - Use text editors effectively
 
-#### Day 5: Linux Fundamentals Part 2
+#### Day 5: Systems Administration Fundamentals
 - **Topics:**
   - User and group management
   - System services and processes
-  - Package management (apt, yum)
+  - Software and package management concepts
   - System logging and monitoring
-  - Basic shell scripting
+  - Introductory scripting for automation
 
 - **Labs:**
   - Lab 12: Creating users and groups
   - Lab 13: Managing system services
-  - Lab 14: Writing simple bash scripts
+  - Lab 14: Writing simple administration scripts
 
 - **Expected Outcomes:**
-  - Manage Linux users and permissions
+  - Manage users and permissions
   - Control system services
-  - Write basic shell scripts
+  - Write basic administration scripts
 
 ### Week 2: Hands-On Integration & Capstone
 

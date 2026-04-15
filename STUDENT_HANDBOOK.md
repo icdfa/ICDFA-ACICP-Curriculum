@@ -35,11 +35,11 @@ This handbook outlines the expectations, policies, and procedures that govern yo
 
 ### Programme Structure
 
-The ACICP is a **24-week (6-month) intensive training programme** divided into **7 Phases** covering **15 published course sections** and **162 hands-on labs**.
+The ACICP is a **24-week (6-month) intensive training programme** divided into **7 Phases** covering **13 published course sections** and **123 hands-on labs**.
 
 | Phase | Focus Area | Duration | Courses |
 |:------|:-----------|:---------|:--------|
-| 1 | Core Systems & Security | 4 weeks | ACICP 101, 103-104 |
+| 1 | Core Systems & Security | 4 weeks | ACICP 101 |
 | 2 | Network & Security Operations | 3 weeks | ACICP 201-202 |
 | 3 | Critical Infrastructure (ICS) | 4 weeks | ACICP 301-303 |
 | 4 | Offensive Cyber Operations | 4 weeks | ACICP 401-403 |
@@ -53,7 +53,7 @@ The ACICP is a **24-week (6-month) intensive training programme** divided into *
 The programme is delivered through:
 
 - **Instructor-led classroom sessions** (8 hours per day, 5 days per week)
-- **Hands-on lab exercises** (162 practical labs with real infrastructure)
+- **Hands-on lab exercises** (123 practical labs with real infrastructure)
 - **Live cyber range simulations** (24-hour CTF in final phase)
 - **Peer collaboration** (team-based exercises and group projects)
 
@@ -75,7 +75,7 @@ Applicants must have:
 
 - Prior knowledge of cybersecurity fundamentals (equivalent to CompTIA Security+)
 - Basic networking understanding (TCP/IP, DNS, HTTP/HTTPS)
-- Familiarity with Linux systems (command-line basics)
+- Prior systems administration or command-line experience
 - Strong English language proficiency (written and verbal)
 
 ### Selection Criteria

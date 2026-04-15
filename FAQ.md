@@ -45,7 +45,7 @@ Use your browser's search function (Ctrl+F or Cmd+F) to quickly find answers to 
 
 - Prior knowledge of cybersecurity fundamentals (equivalent to CompTIA Security+)
 - Basic networking understanding (TCP/IP, DNS, HTTP/HTTPS)
-- Familiarity with Linux systems (command-line basics)
+- Prior systems administration or command-line experience
 - Strong English language proficiency (written and verbal)
 - Demonstrated commitment to cybersecurity and professional maturity
 
@@ -101,7 +101,7 @@ We look for candidates who show both technical capability and professional matur
 
 - Cybersecurity fundamentals
 - Networking essentials (TCP/IP)
-- Linux proficiency
+- Systems administration fundamentals
 - Hands-on lab skills
 
 Upon successful completion of the Bridge Course (≥70%), you are guaranteed admission to the main ACICP.
@@ -185,9 +185,9 @@ All cohorts run for exactly 24 weeks (6 months) in a compressed intensive delive
 
 ### Q13: What courses are included in the ACICP?
 
-**A:** The ACICP now presents **15 published course sections** across **7 phases**:
+**A:** The ACICP now presents **13 published course sections** across **7 phases**:
 
-**Phase 1:** ACICP 101, 103-104 (Cybersecurity Foundation, Linux Systems Engineering I-II)
+**Phase 1:** ACICP 101 (Cybersecurity Foundation)
 
 **Phase 2:** ACICP 201-202 (Network Security Engineering, Security Operations & Threat Monitoring)
 
@@ -205,7 +205,7 @@ All cohorts run for exactly 24 weeks (6 months) in a compressed intensive delive
 
 ### Q14: How many labs are included?
 
-**A:** The revised ACICP includes **162 hands-on labs** distributed across **15 published course sections**. Each course includes focused practical lab exercises covering real-world infrastructure and cybersecurity scenarios.
+**A:** The revised ACICP includes **123 hands-on labs** distributed across **13 published course sections**. Each course includes focused practical lab exercises covering real-world infrastructure and cybersecurity scenarios.
 
 ---
 
@@ -217,7 +217,7 @@ All cohorts run for exactly 24 weeks (6 months) in a compressed intensive delive
 
 **A:** You should have:
 
-- Basic Linux command-line proficiency (cd, ls, mkdir, etc.)
+- Prior systems administration or command-line proficiency in enterprise environments
 - Understanding of TCP/IP networking (IP addresses, ports, protocols)
 - Familiarity with cybersecurity concepts (firewalls, encryption, authentication)
 - Experience with at least one programming language (Python, Bash, or similar)
@@ -287,7 +287,7 @@ Lab environments are cloud-based, so a reliable internet connection is essential
 - **macOS** (10.14 or later)
 - **Linux** (Ubuntu 20.04 or later)
 
-Most labs are Linux-based, so Linux users may have a slight advantage. All instructors support all platforms.
+Lab environments span cloud, network, industrial, and virtual infrastructure platforms, so any supported laptop is acceptable. All instructors support all platforms.
 
 ---
 
@@ -313,7 +313,7 @@ The scholarship track is available to qualified candidates from underrepresented
 **A:** Tuition includes:
 
 - 24 weeks of instructor-led training (8 hours/day, 5 days/week)
-- 100+ hands-on lab exercises with cloud-based environments
+- 123 hands-on lab exercises with cloud-based environments
 - Access to all partner platforms (Microsoft Azure, AWS, Cisco, NDG NETLAB+)
 - $200/month Microsoft Azure credits ($2,400 total value)
 - Free AWS Academy labs and free tier access
