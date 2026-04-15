@@ -35,16 +35,12 @@ This handbook outlines the expectations, policies, and procedures that govern yo
 
 ### Programme Structure
 
-The ACICP is a **24-week (6-month) intensive training programme** divided into **6 Phases** covering **12 published course sections** and **105 hands-on labs**.
+The ACICP is a **24-week (6-month) intensive training programme** divided into **2 Phases** covering **12 published course sections** and **105 hands-on labs**.
 
 | Phase | Focus Area | Duration | Courses |
 |:------|:-----------|:---------|:--------|
-| 1 | Core Systems & Security | 4 weeks | ACICP 101 |
-| 2 | Network & Security Operations | 3 weeks | ACICP 201-202 |
-| 3 | Critical Infrastructure (ICS) | 4 weeks | ACICP 301-303 |
-| 4 | Offensive Cyber Operations | 4 weeks | ACICP 401-403 |
-| 5 | Cloud Security | 2 weeks | ACICP 601 |
-| 6 | Digital Forensics & Capstone | 7 weeks | ACICP 701-702 |
+| 1 | Core Security, Network Operations & Critical Infrastructure | 11 weeks | ACICP 101, ACICP 201, ACICP 202, ACICP 301, ACICP 302, ACICP 303 |
+| 2 | Offensive Operations, Cloud Security & Digital Forensics | 13 weeks | ACICP 401, ACICP 402, ACICP 403, ACICP 601, ACICP 701, ACICP 702 |
 
 
 ### Training Delivery
@@ -159,8 +155,8 @@ Violations of the Strict Lab Discipline Policy result in the following escalatin
 The ACICP includes the following assessments:
 
 1. **Initial Lab Assessment** (Week 1)
-2. **Continuous Lab Performance** (Weeks 2–35)
-3. **Mid-Programme Competency Exam** (Week 18)
+2. **Continuous Lab Performance** (Weeks 2–24)
+3. **Mid-Programme Competency Exam** (Week 12)
 4. **Final Lab Assessment** (Week 23)
 5. **Capstone Project & 24-Hour CTF** (Week 24)
 
@@ -174,7 +170,7 @@ The ACICP includes the following assessments:
 
 ### Continuous Assessment
 
-Continuous lab performance (Weeks 2–35) is monitored throughout the programme. Trainees who fall below a **70% competency threshold** at any point will receive:
+Continuous lab performance (Weeks 2–24) is monitored throughout the programme. Trainees who fall below a **70% competency threshold** at any point will receive:
 
 1. **Week 1 of underperformance:** Formal warning and remedial training plan
 2. **Week 2 of underperformance:** Probationary status and daily check-ins with instructor
@@ -242,7 +238,7 @@ Each trainee must complete **minimum 20 hours** of CDS during the 24-week progra
 - **Weight:** Diagnostic (not counted toward final grade)
 - **Retake:** Unlimited (diagnostic only)
 
-#### 2. Continuous Lab Performance (Weeks 2–35)
+#### 2. Continuous Lab Performance (Weeks 2–24)
 
 - **Purpose:** Monitor ongoing competency and engagement
 - **Format:** Weekly lab submissions, code reviews, and instructor evaluations
@@ -250,9 +246,9 @@ Each trainee must complete **minimum 20 hours** of CDS during the 24-week progra
 - **Retake:** Not applicable (continuous evaluation)
 - **Threshold:** Must maintain ≥70% average
 
-#### 3. Mid-Programme Competency Exam (Week 18)
+#### 3. Mid-Programme Competency Exam (Week 12)
 
-- **Purpose:** Evaluate mastery of Phase 1–3 content
+- **Purpose:** Evaluate mastery of Phase 1 content
 - **Format:** Written exam + practical lab scenarios
 - **Weight:** 20% of final grade
 - **Retake:** **NO RETAKES ALLOWED**
@@ -261,7 +257,7 @@ Each trainee must complete **minimum 20 hours** of CDS during the 24-week progra
 #### 4. Final Lab Assessment (Week 23)
 
 - **Purpose:** Comprehensive evaluation of all technical skills
-- **Format:** Practical lab exercises covering the revised 7-phase curriculum
+- **Format:** Practical lab exercises covering the revised 2-phase curriculum
 - **Weight:** 20% of final grade
 - **Retake:** **NO RETAKES ALLOWED**
 - **Passing Score:** ≥70%

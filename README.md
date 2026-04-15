@@ -12,12 +12,8 @@ This repository contains the full curriculum for the Advanced Critical Infrastru
 - [Programme Details](#programme-details)
 - [Admission Requirements](#admission-requirements)
 - [Programme Structure](#programme-structure)
-  - [Phase 1: Core Systems & Security](#phase-1-core-systems--security)
-  - [Phase 2: Network & Security Operations](#phase-2-network--security-operations)
-  - [Phase 3: Critical Infrastructure (ICS)](#phase-3-critical-infrastructure-ics)
-  - [Phase 4: Offensive Cyber Operations & Firewall Engineering](#phase-4-offensive-cyber-operations--firewall-engineering)
-  - [Phase 5: Cloud Security](#phase-5-cloud-security)
-  - [Phase 6: Digital Forensics & Final Simulation](#phase-6-digital-forensics--final-simulation)
+  - [Phase 1: Core Security, Network Operations & Critical Infrastructure](#phase-1-core-security-network-operations--critical-infrastructure)
+  - [Phase 2: Offensive Operations, Cloud Security & Digital Forensics](#phase-2-offensive-operations-cloud-security--digital-forensics)
 - [Assessment Structure](#assessment-structure)
 - [Mandatory ICDFA Requirements](#mandatory-icdfa-requirements)
 - [Certification](#certification)
@@ -74,11 +70,11 @@ Applicants must have:
 
 ## Programme Structure
 
-The programme is divided into **6 Phases** delivered across **24 weeks (6 months)**, with a compressed advanced sequence focused on critical infrastructure security, offensive operations, cloud defence, and digital forensics with an extended final simulation phase. 
+The programme is divided into **2 Phases** delivered across **24 weeks (6 months)**, with the **12 published course sections** distributed as evenly as possible across the advanced sequence. Phase 1 concentrates on core security, network operations, and critical infrastructure, while Phase 2 concentrates on offensive operations, cloud security, and digital forensics with the final simulation. 
 
 ---
 
-### Phase 1: Core Systems & Security
+### Phase 1: Core Security, Network Operations & Critical Infrastructure
 
 #### ACICP 101 – Cybersecurity Foundation
 
@@ -101,7 +97,7 @@ The programme is divided into **6 Phases** delivered across **24 weeks (6 months
 ---
 
 
-### Phase 2: Network & Security Operations
+**Module Area: Network & Security Operations**
 
 #### ACICP 201 – Network Security Engineering
 
@@ -147,7 +143,7 @@ The programme is divided into **6 Phases** delivered across **24 weeks (6 months
 
 ---
 
-### Phase 3: Critical Infrastructure (ICS)
+**Module Area: Critical Infrastructure (ICS)**
 
 #### ACICP 301 – ICS & SCADA Systems
 
@@ -203,7 +199,7 @@ The programme is divided into **6 Phases** delivered across **24 weeks (6 months
 
 ---
 
-### Phase 4: Offensive Cyber Operations & Firewall Engineering
+### Phase 2: Offensive Operations, Cloud Security & Digital Forensics
 
 #### ACICP 401 – Ethical Hacking (Core) – Series 1
 
@@ -290,7 +286,7 @@ The programme is divided into **6 Phases** delivered across **24 weeks (6 months
 ---
 
 
-### Phase 5: Cloud Security
+**Module Area: Cloud Security**
 
 #### ACICP 601 – Cloud Security Fundamentals
 
@@ -315,7 +311,7 @@ The programme is divided into **6 Phases** delivered across **24 weeks (6 months
 ---
 
 
-### Phase 6: Digital Forensics & Final Simulation
+**Module Area: Digital Forensics & Final Simulation**
 
 #### ACICP 701 – Digital Forensics
 
@@ -489,11 +485,8 @@ Our partnerships ensure that ACICP graduates receive:
 
 | Phase | Partner | Focus Area |
 |-------|---------|------------|
-| Phase 1-2 | Cisco Academy | Networking fundamentals and security operations |
-| Phase 3 | NDG NETLAB+ | ICS/SCADA systems |
-| Phase 4 | NDG NETLAB+ | Offensive operations and firewall engineering |
-| Phase 5 | Microsoft Azure, AWS | Cloud security |
-| Phase 6 | All Partners | Digital forensics and final capstone simulation |
+| Phase 1 | Cisco Academy, NDG NETLAB+ | Core security, network operations, and ICS/SCADA systems |
+| Phase 2 | NDG NETLAB+, Microsoft Azure, AWS, All Partners | Offensive operations, cloud security, digital forensics, and final capstone simulation |
 
 ---
 

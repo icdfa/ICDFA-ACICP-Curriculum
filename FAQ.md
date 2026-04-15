@@ -139,14 +139,10 @@ Cohorts are highly competitive, and we recommend applying early.
 
 ### Q9: How long is the ACICP?
 
-**A:** The ACICP is a **24-week (6-month) intensive programme** divided into **6 phases**:
+**A:** The ACICP is a **24-week (6-month) intensive programme** divided into **2 phases**:
 
-- Phase 1: Core Systems & Security (4 weeks)
-- Phase 2: Network & Security Operations (3 weeks)
-- Phase 3: Critical Infrastructure (ICS) (4 weeks)
-- Phase 4: Offensive Cyber Operations (4 weeks)
-- Phase 5: Cloud Security (2 weeks)
-- Phase 6: Digital Forensics & Final Simulation (7 weeks)
+- Phase 1: Core Security, Network Operations & Critical Infrastructure (11 weeks)
+- Phase 2: Offensive Operations, Cloud Security & Digital Forensics (13 weeks)
 
 ---
 
@@ -184,19 +180,11 @@ All cohorts run for exactly 24 weeks (6 months) in a compressed intensive delive
 
 ### Q13: What courses are included in the ACICP?
 
-**A:** The ACICP now presents **12 published course sections** across **6 phases**:
+**A:** The ACICP now presents **12 published course sections** across **2 phases**:
 
-**Phase 1:** ACICP 101 (Cybersecurity Foundation)
+**Phase 1:** ACICP 101, ACICP 201, ACICP 202, ACICP 301, ACICP 302, and ACICP 303
 
-**Phase 2:** ACICP 201-202 (Network Security Engineering, Security Operations & Threat Monitoring)
-
-**Phase 3:** ACICP 301-303 (ICS & SCADA Systems, ICS Network Security & Attacks, Industrial Exploitation & Pivoting)
-
-**Phase 4:** ACICP 401-403 (Ethical Hacking Series 1, Ethical Hacking Series 2, PAN11 Firewall Essentials)
-
-**Phase 5:** ACICP 601 (Cloud Security Fundamentals)
-
-**Phase 6:** ACICP 701-702 (Digital Forensics, Final Capstone & 24-Hour Cyber Range)
+**Phase 2:** ACICP 401, ACICP 402, ACICP 403, ACICP 601, ACICP 701, and ACICP 702
 
 ---
 
@@ -505,7 +493,7 @@ The credential demonstrates mastery of critical infrastructure security and is h
 **A:** Assessment includes:
 
 - **Continuous Lab Performance (40%):** Weekly lab submissions and evaluations
-- **Mid-Programme Exam (20%):** Week 18 comprehensive exam
+- **Mid-Programme Exam (20%):** Week 12 comprehensive exam
 - **Final Lab Assessment (20%):** Week 23 practical evaluation
 - **Capstone Project & CTF (20%):** Week 24 live simulation and competition
 
