@@ -139,15 +139,14 @@ Cohorts are highly competitive, and we recommend applying early.
 
 ### Q9: How long is the ACICP?
 
-**A:** The ACICP is a **24-week (6-month) intensive programme** divided into **7 phases**:
+**A:** The ACICP is a **24-week (6-month) intensive programme** divided into **6 phases**:
 
 - Phase 1: Core Systems & Security (4 weeks)
 - Phase 2: Network & Security Operations (3 weeks)
 - Phase 3: Critical Infrastructure (ICS) (4 weeks)
 - Phase 4: Offensive Cyber Operations (4 weeks)
 - Phase 5: Cloud Security (2 weeks)
-- Phase 6: Virtual Infrastructure (3 weeks)
-- Phase 7: Digital Forensics & Final Simulation (4 weeks)
+- Phase 6: Digital Forensics & Final Simulation (7 weeks)
 
 ---
 
@@ -185,7 +184,7 @@ All cohorts run for exactly 24 weeks (6 months) in a compressed intensive delive
 
 ### Q13: What courses are included in the ACICP?
 
-**A:** The ACICP now presents **13 published course sections** across **7 phases**:
+**A:** The ACICP now presents **12 published course sections** across **6 phases**:
 
 **Phase 1:** ACICP 101 (Cybersecurity Foundation)
 
@@ -197,15 +196,13 @@ All cohorts run for exactly 24 weeks (6 months) in a compressed intensive delive
 
 **Phase 5:** ACICP 601 (Cloud Security Fundamentals)
 
-**Phase 6:** ACICP 604 (Advanced Virtual Infrastructure)
-
-**Phase 7:** ACICP 701-702 (Digital Forensics, Final Capstone & 24-Hour Cyber Range)
+**Phase 6:** ACICP 701-702 (Digital Forensics, Final Capstone & 24-Hour Cyber Range)
 
 ---
 
 ### Q14: How many labs are included?
 
-**A:** The revised ACICP includes **123 hands-on labs** distributed across **13 published course sections**. Each course includes focused practical lab exercises covering real-world infrastructure and cybersecurity scenarios.
+**A:** The revised ACICP includes **105 hands-on labs** distributed across **12 published course sections**. Each course includes focused practical lab exercises covering real-world infrastructure and cybersecurity scenarios.
 
 ---
 
@@ -287,7 +284,7 @@ Lab environments are cloud-based, so a reliable internet connection is essential
 - **macOS** (10.14 or later)
 - **Linux** (Ubuntu 20.04 or later)
 
-Lab environments span cloud, network, industrial, and virtual infrastructure platforms, so any supported laptop is acceptable. All instructors support all platforms.
+Lab environments span cloud, network, industrial, and forensic simulation platforms, so any supported laptop is acceptable. All instructors support all platforms.
 
 ---
 

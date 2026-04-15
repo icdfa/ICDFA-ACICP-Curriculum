@@ -35,7 +35,7 @@ This handbook outlines the expectations, policies, and procedures that govern yo
 
 ### Programme Structure
 
-The ACICP is a **24-week (6-month) intensive training programme** divided into **7 Phases** covering **13 published course sections** and **123 hands-on labs**.
+The ACICP is a **24-week (6-month) intensive training programme** divided into **6 Phases** covering **12 published course sections** and **105 hands-on labs**.
 
 | Phase | Focus Area | Duration | Courses |
 |:------|:-----------|:---------|:--------|
@@ -44,8 +44,7 @@ The ACICP is a **24-week (6-month) intensive training programme** divided into *
 | 3 | Critical Infrastructure (ICS) | 4 weeks | ACICP 301-303 |
 | 4 | Offensive Cyber Operations | 4 weeks | ACICP 401-403 |
 | 5 | Cloud Security | 2 weeks | ACICP 601 |
-| 6 | Virtual Infrastructure | 3 weeks | ACICP 604 |
-| 7 | Digital Forensics & Capstone | 4 weeks | ACICP 701-702 |
+| 6 | Digital Forensics & Capstone | 7 weeks | ACICP 701-702 |
 
 
 ### Training Delivery
@@ -53,7 +52,7 @@ The ACICP is a **24-week (6-month) intensive training programme** divided into *
 The programme is delivered through:
 
 - **Instructor-led classroom sessions** (8 hours per day, 5 days per week)
-- **Hands-on lab exercises** (123 practical labs with real infrastructure)
+- **Hands-on lab exercises** (105 practical labs with real infrastructure)
 - **Live cyber range simulations** (24-hour CTF in final phase)
 - **Peer collaboration** (team-based exercises and group projects)
 

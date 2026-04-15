@@ -17,8 +17,7 @@ This repository contains the full curriculum for the Advanced Critical Infrastru
   - [Phase 3: Critical Infrastructure (ICS)](#phase-3-critical-infrastructure-ics)
   - [Phase 4: Offensive Cyber Operations & Firewall Engineering](#phase-4-offensive-cyber-operations--firewall-engineering)
   - [Phase 5: Cloud Security](#phase-5-cloud-security)
-  - [Phase 6: Virtual Infrastructure](#phase-6-virtual-infrastructure)
-  - [Phase 7: Digital Forensics & Final Simulation](#phase-7-digital-forensics--final-simulation)
+  - [Phase 6: Digital Forensics & Final Simulation](#phase-6-digital-forensics--final-simulation)
 - [Assessment Structure](#assessment-structure)
 - [Mandatory ICDFA Requirements](#mandatory-icdfa-requirements)
 - [Certification](#certification)
@@ -75,7 +74,7 @@ Applicants must have:
 
 ## Programme Structure
 
-The programme is divided into **7 Phases** delivered across **24 weeks (6 months)**, with a compressed advanced sequence focused on critical infrastructure security, offensive operations, cloud defence, virtual infrastructure, and digital forensics. 
+The programme is divided into **6 Phases** delivered across **24 weeks (6 months)**, with a compressed advanced sequence focused on critical infrastructure security, offensive operations, cloud defence, and digital forensics with an extended final simulation phase. 
 
 ---
 
@@ -316,41 +315,7 @@ The programme is divided into **7 Phases** delivered across **24 weeks (6 months
 ---
 
 
-### Phase 6: Virtual Infrastructure
-
-
-#### ACICP 604 – Advanced Virtual Infrastructure
-
-*   Automation
-*   Monitoring
-*   Distributed storage
-
-**Labs:**
-
-| Lab Number | Lab Title                                                 |
-|:-----------|:----------------------------------------------------------|
-| Lab 01A    | Importing Virtual Machines from VMware ESXi               |
-| Lab 01B    | Importing Virtual Machines from Microsoft Hyper-V         |
-| Lab 01C    | Importing Virtual Machines from VirtualBox                |
-| Lab 02     | Advanced User Management                                  |
-| Lab 03     | Management Using the API Interface                        |
-| Lab 04     | Creating Heterogeneous Virtual Machines                   |
-| Lab 05     | Hookscripts and Snippets                                  |
-| Lab 06     | Exploring Configuration Files                             |
-| Lab 07A    | Advanced Monitoring                                       |
-| Lab 07B    | Advanced Alerts                                           |
-| Lab 08     | Virtual Machine and Container Monitoring                  |
-| Lab 09A    | Virtual Machine and Container Viewing With noVNC and xterm.js |
-| Lab 09B    | Virtual Machine and Container Viewing With SPICE          |
-| Lab 10     | Cloud-Init Configuration                                  |
-| Lab 11     | Data Encryption                                           |
-| Lab 12     | Advanced Networking and Switching                         |
-| Lab 13     | Ceph and Distributed Storage                              |
-| Lab 14     | Challenge Lab                                             |
-
----
-
-### Phase 7: Digital Forensics & Final Simulation
+### Phase 6: Digital Forensics & Final Simulation
 
 #### ACICP 701 – Digital Forensics
 
@@ -500,7 +465,7 @@ The ACICP is proudly supported by leading technology and cybersecurity organizat
 #### NDG (Network Development Group) - NETLAB+
 - **Hands-On Lab Infrastructure**: Industrial control systems, SCADA security, and virtual networking environments
 - **Benefits**: Unlimited NETLAB+ access, ICS/SCADA simulation labs, remote lab environments
-- **Integration**: ACICP 301-303 (ICS/SCADA Security modules), ACICP 604 (Advanced Virtual Infrastructure)
+- **Integration**: ACICP 301-303 (ICS/SCADA Security modules), ACICP 701-702 (Digital Forensics & Final Simulation)
 
 ### Charitable & Educational Partners
 
@@ -528,8 +493,7 @@ Our partnerships ensure that ACICP graduates receive:
 | Phase 3 | NDG NETLAB+ | ICS/SCADA systems |
 | Phase 4 | NDG NETLAB+ | Offensive operations and firewall engineering |
 | Phase 5 | Microsoft Azure, AWS | Cloud security |
-| Phase 6 | NDG NETLAB+ | Advanced virtual infrastructure |
-| Phase 7 | All Partners | Capstone simulation and forensics |
+| Phase 6 | All Partners | Digital forensics and final capstone simulation |
 
 ---
 
